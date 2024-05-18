@@ -1,0 +1,117 @@
+Image,Label,Name
+training_illegal_data\cocaine\cocaine (1).jpg,illegal,cocaine
+training_illegal_data\cocaine\cocaine (1).png,illegal,cocaine
+training_illegal_data\cocaine\cocaine (2).jpg,illegal,cocaine
+training_illegal_data\cocaine\cocaine (2).png,illegal,cocaine
+training_illegal_data\cocaine\cocaine (3).jpg,illegal,cocaine
+training_illegal_data\cocaine\cocaine (3).png,illegal,cocaine
+training_illegal_data\cocaine\cocaine (4).jpg,illegal,cocaine
+training_illegal_data\cocaine\cocaine (4).png,illegal,cocaine
+training_illegal_data\cocaine\cocaine (5).jpg,illegal,cocaine
+training_illegal_data\drugs\drugs (1).jpg,illegal,drugs
+training_illegal_data\drugs\drugs (1).png,illegal,drugs
+training_illegal_data\drugs\drugs (10).jpg,illegal,drugs
+training_illegal_data\drugs\drugs (11).jpg,illegal,drugs
+training_illegal_data\drugs\drugs (12).jpg,illegal,drugs
+training_illegal_data\drugs\drugs (13).jpg,illegal,drugs
+training_illegal_data\drugs\drugs (14).jpg,illegal,drugs
+training_illegal_data\drugs\drugs (15).jpg,illegal,drugs
+training_illegal_data\drugs\drugs (2).jpg,illegal,drugs
+training_illegal_data\drugs\drugs (2).png,illegal,drugs
+training_illegal_data\drugs\drugs (3).jpg,illegal,drugs
+training_illegal_data\drugs\drugs (3).png,illegal,drugs
+training_illegal_data\drugs\drugs (4).jpg,illegal,drugs
+training_illegal_data\drugs\drugs (4).png,illegal,drugs
+training_illegal_data\drugs\drugs (5).jpg,illegal,drugs
+training_illegal_data\drugs\drugs (5).png,illegal,drugs
+training_illegal_data\drugs\drugs (6).jpg,illegal,drugs
+training_illegal_data\drugs\drugs (6).png,illegal,drugs
+training_illegal_data\drugs\drugs (7).jpg,illegal,drugs
+training_illegal_data\drugs\drugs (7).png,illegal,drugs
+training_illegal_data\drugs\drugs (8).jpg,illegal,drugs
+training_illegal_data\drugs\drugs (8).png,illegal,drugs
+training_illegal_data\drugs\drugs (9).jpg,illegal,drugs
+training_illegal_data\drugs\drugs (9).png,illegal,drugs
+training_illegal_data\drugs\drugs.jpg,illegal,drugs.jpg
+training_illegal_data\heroine\heroin (1).jpeg,illegal,heroin
+training_illegal_data\heroine\heroin (1).jpg,illegal,heroin
+training_illegal_data\heroine\heroin (2).jpeg,illegal,heroin
+training_illegal_data\heroine\heroin (2).jpg,illegal,heroin
+training_illegal_data\heroine\heroin (3).jpg,illegal,heroin
+training_illegal_data\heroine\heroin (4).jpg,illegal,heroin
+training_illegal_data\heroine\heroin (5).jpg,illegal,heroin
+training_illegal_data\heroine\heroin (6).jpg,illegal,heroin
+training_illegal_data\heroine\heroin (7).jpg,illegal,heroin
+training_illegal_data\heroine\heroin (8).jpg,illegal,heroin
+training_illegal_data\marijuana\marijuana (1).jpg,illegal,marijuana
+training_illegal_data\marijuana\marijuana (1).png,illegal,marijuana
+training_illegal_data\marijuana\marijuana (11).jpg,illegal,marijuana
+training_illegal_data\marijuana\marijuana (15).jpg,illegal,marijuana
+training_illegal_data\marijuana\marijuana (17).jpg,illegal,marijuana
+training_illegal_data\marijuana\marijuana (18).jpg,illegal,marijuana
+training_illegal_data\marijuana\marijuana (19).jpg,illegal,marijuana
+training_illegal_data\marijuana\marijuana (20).jpg,illegal,marijuana
+training_illegal_data\marijuana\marijuana (4).jpg,illegal,marijuana
+training_illegal_data\marijuana\marijuana (6).jpg,illegal,marijuana
+training_illegal_data\marijuana\marijuana (8).jpg,illegal,marijuana
+training_illegal_data\marijuana\marijuana (9).jpg,illegal,marijuana
+training_illegal_data\marijuana\Mbanje_2024-05-08_08-38-43.jpg,illegal,Mbanje_2024-05-08_08-38-43.jpg
+training_illegal_data\methamphetamine\methamphetamine (1).jpg,illegal,methamphetamine
+training_illegal_data\methamphetamine\methamphetamine (1).png,illegal,methamphetamine
+training_illegal_data\methamphetamine\methamphetamine (10).jpg,illegal,methamphetamine
+training_illegal_data\methamphetamine\methamphetamine (13).jpg,illegal,methamphetamine
+training_illegal_data\methamphetamine\methamphetamine (2).jpg,illegal,methamphetamine
+training_illegal_data\methamphetamine\methamphetamine (2).png,illegal,methamphetamine
+training_illegal_data\methamphetamine\methamphetamine (3).jpg,illegal,methamphetamine
+training_illegal_data\methamphetamine\methamphetamine (3).png,illegal,methamphetamine
+training_illegal_data\methamphetamine\methamphetamine (4).jpg,illegal,methamphetamine
+training_illegal_data\methamphetamine\methamphetamine (4).png,illegal,methamphetamine
+training_illegal_data\methamphetamine\methamphetamine (5).jpg,illegal,methamphetamine
+training_illegal_data\methamphetamine\methamphetamine (6).jpg,illegal,methamphetamine
+training_illegal_data\methamphetamine\methamphetamine (6).png,illegal,methamphetamine
+training_illegal_data\methamphetamine\methamphetamine (7).jpg,illegal,methamphetamine
+training_illegal_data\methamphetamine\methamphetamine (8).jpg,illegal,methamphetamine
+training_illegal_data\methamphetamine\methamphetamine (9).jpg,illegal,methamphetamine
+training_non_illegal_data\safe\71yZwIAgHVL.jpg,non_illegal,safe
+training_non_illegal_data\safe\bicycles.jpg,non_illegal,safe
+training_non_illegal_data\safe\cake_eating.jpg,non_illegal,safe
+training_non_illegal_data\safe\DFGHJKMKU (32)_2024-05-08_08-11-05.jpg,non_illegal,safe
+training_non_illegal_data\safe\DFGHJKMKU (50)_2024-05-08_08-11-30.jpg,non_illegal,safe
+training_non_illegal_data\safe\holiday.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20210916-WA0019.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211031-WA0017.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211031-WA0018.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211031-WA0037.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211118-WA0033.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211118-WA0035.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211202-WA0004.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211202-WA0024.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211202-WA0026.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211202-WA0027.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211204-WA0004.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211204-WA0004_2024-05-08_08-29-12.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211216-WA0005.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211217-WA0000.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211220-WA0037.jpeg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211228-WA0002.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211231-WA0009.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211231-WA0012.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211231-WA0014.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211231-WA0015.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211231-WA0016.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211231-WA0017.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211231-WA0018.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20211231-WA0019.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20220106-WA0000.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20220113-WA0035.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20220113-WA0038.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20220113-WA0039.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20220114-WA0043_2024-05-08_08-15-29.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20220119-WA0043.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20220301-WA0000_2024-05-08_08-14-35.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20220618-WA0009_2024-05-08_08-15-04.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20220717-WA0018.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20220729-WA0049.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20220910-WA0004.jpg,non_illegal,safe
+training_non_illegal_data\safe\IMG-20221110-WA0035.jpg,non_illegal,safe
+training_non_illegal_data\safe\kids.jpg,non_illegal,safe
